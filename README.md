@@ -11,10 +11,6 @@
 - 新闻类应用  
 
 
-##展示图片
-
-![demoImage](/media/demo_image.png "滚动title")
-
 ##展示gif
 ![](/media/demo_gif.gif)
 
