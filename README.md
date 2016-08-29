@@ -35,4 +35,4 @@
 CSNavigationBarWithScrollTitle/LICENSE
 ## Licenses
 
-All source code is licensed under the [MIT License](https://raw.github.com/rs/CSNavigationBarWithScrollTitle/master/LICENSE).
+All source code is licensed under the [MIT License](https://github.com/chenaiwubu/CSNavigationBarWithScrollTitle/rs/master/LICENSE.md).
