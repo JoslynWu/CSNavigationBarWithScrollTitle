@@ -6,17 +6,18 @@
 这是一个在navgationBar中实现滚动的titleDemo。  
 
 ##应用场景
-*今日头条的title  
--掌上英雄联盟的资讯页。此demo的素材就是来自掌上英雄联盟(表示感谢)。  
-*新闻类应用  
+- 今日头条的title  
+- 掌上英雄联盟的资讯页。此demo的素材就是来自掌上英雄联盟(表示感谢)。  
+- 新闻类应用  
 
 
 ##展示图片
 
 ![demoImage](/media/demo_image.png "滚动title")
 
-##展示视频
-[video](/media/demo_video.mov)
+##展示gif
+![][demoGif]
+[demoGif]:/image/demo_gif.gif
 
 
 ##实现思路
