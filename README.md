@@ -13,29 +13,26 @@
 
 ##展示图片
 
-![demoImage](media/demo_image.png 滚动title)
+![demoImage](/media/demo_image.png 滚动title)
 
 ##展示视频
-[video](media/demo_image.png)
+[video](/media/demo_video.mov)
 
 
 ##实现思路
 ```
->1、整个资讯界面是一个UIViewController,在整个控制器里添加一个UICollectionView。  
+1、整个资讯界面是一个UIViewController,在整个控制器里添加一个UICollectionView。  
     UICollectionView的item尺寸设置成中间View的大小。
-
->2、资讯页的NavigationBar是一个自定义的View覆盖上去的。  
-    自定义的VieW里同样放一个UICollectionView，item里放UILabel或则UIButton都可以。添加到：self.navigationController.view
->3、右上角的箭头是一个UIButton，添加到：self.navigationController.view
+2、资讯页的NavigationBar是一个自定义的View覆盖上去的。  
+    自定义的VieW里同样放一个UICollectionView，item里放UILabel或则UIButton都可以。同时添加到：self.navigationController.view
+3、右上角的箭头是一个UIButton，添加到：self.navigationController.view
 
 ```
-## Installation by cloning the repository
+## 可以通过clone下载Demo
 
-In order to gain access to all the files from the repository, you should clone it.
-```
-git clone --recursive https://github.com/rs/SDWebImage.git
-```
+    git clone --recursive https://github.com/chenaiwubu/CSNavigationBarWithScrollTitle.git
 
+CSNavigationBarWithScrollTitle/LICENSE
 ## Licenses
 
-All source code is licensed under the [MIT License](https://raw.github.com/rs/SDWebImage/master/LICENSE).
+All source code is licensed under the [MIT License](https://raw.github.com/rs/CSNavigationBarWithScrollTitle/master/LICENSE).
