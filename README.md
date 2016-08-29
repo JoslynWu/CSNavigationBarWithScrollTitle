@@ -1,0 +1,2 @@
+# CSNavigationBarWithScrollTitle
+模仿掌上英雄联盟v4.60版本资讯的滚动标题
