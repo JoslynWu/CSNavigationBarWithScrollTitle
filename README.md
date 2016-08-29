@@ -13,7 +13,7 @@
 
 ##展示图片
 
-![demoImage](/media/demo_image.png 滚动title)
+![demoImage](CSNavigationBarWithScrollTitle/media/demo_image.png 滚动title)
 
 ##展示视频
 [video](/media/demo_video.mov)
@@ -35,4 +35,4 @@
 CSNavigationBarWithScrollTitle/LICENSE
 ## Licenses
 
-All source code is licensed under the [MIT License](https://github.com/chenaiwubu/CSNavigationBarWithScrollTitle/rs/master/LICENSE.md).
+All source code is licensed under the [MIT License](https://github.com/rs/CSNavigationBarWithScrollTitle/master/LICENSE).
