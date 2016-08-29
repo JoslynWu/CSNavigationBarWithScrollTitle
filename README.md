@@ -1,6 +1,6 @@
 #                CSNavigationBarWithScrollTitle
 ##              模仿掌上英雄联盟v4.60版本资讯的滚动标题
-
+=======
 
 ##介绍
 这是一个在navgationBar中实现滚动的titleDemo。  
@@ -13,7 +13,7 @@
 
 ##展示图片
 
-![demoImage](CSNavigationBarWithScrollTitle/media/demo_image.png 滚动title)
+![demoImage](/media/demo_image.png "滚动title")
 
 ##展示视频
 [video](/media/demo_video.mov)
@@ -32,7 +32,6 @@
 
     git clone --recursive https://github.com/chenaiwubu/CSNavigationBarWithScrollTitle.git
 
-CSNavigationBarWithScrollTitle/LICENSE
 ## Licenses
 
-All source code is licensed under the [MIT License](https://github.com/rs/CSNavigationBarWithScrollTitle/master/LICENSE).
+All source code is licensed under the [MIT License](/LICENSE).
