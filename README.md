@@ -11,9 +11,12 @@
 >很多新闻类应用
 --------
 
-##图片
+##展示图片
 
-![demoImage](image/demo.png 滚动title)
+![demoImage](media/demo_image.png 滚动title)
+
+##展示视频
+[video](media/demo_image.png)
 
 
 ##实现思路
@@ -26,3 +29,13 @@
 >3、右上角的箭头是一个UIButton，添加到：self.navigationController.view
 
 ```
+## Installation by cloning the repository
+
+In order to gain access to all the files from the repository, you should clone it.
+```
+git clone --recursive https://github.com/rs/SDWebImage.git
+```
+
+## Licenses
+
+All source code is licensed under the [MIT License](https://raw.github.com/rs/SDWebImage/master/LICENSE).
