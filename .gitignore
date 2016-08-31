@@ -58,3 +58,7 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+CSNavigationBarWihtScrollTitle/.DS_Store
+
+.DS_Store

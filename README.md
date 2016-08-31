@@ -18,11 +18,11 @@
 
 ##实现思路
 ```
-1、整个资讯界面是一个UIViewController,在整个控制器里添加一个UICollectionView。  
-    UICollectionView的item尺寸设置成中间View的大小。
+1、整个资讯界面是一个UIViewController,控制器View里添加一个UICollectionView,其item尺寸设置成中间View的大小。
 2、资讯页的NavigationBar是一个自定义的View覆盖上去的。  
     自定义的VieW里同样放一个UICollectionView，item里放UILabel或则UIButton都可以。同时添加到：self.navigationController.view
-3、右上角的箭头是一个UIButton，添加到：self.navigationController.view
+3、右上角的箭头是一个UIButton，添加到：self.navigationController.view  
+4、然后设置这三者的联动。
 
 ```
 ## 可以通过clone下载Demo
